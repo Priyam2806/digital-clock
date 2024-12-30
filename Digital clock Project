@@ -1,0 +1,22 @@
+Digital Clock Web App
+Overview:
+This is a simple digital clock built using HTML, CSS, and JavaScript. It displays the current time in the HH:MM:SS format, updating dynamically every second. The clock features a modern design with a gradient background and responsive layout, making it visually appealing and easy to use on any device.
+
+Key Features:
+Real-time time updates.
+Minimalist and responsive design.
+Lightweight and fast performance.
+Technologies Used:
+HTML: Provides the structure.
+CSS: Creates the visual styling.
+JavaScript: Handles real-time updates.
+
+Use Cases:
+Embed as a widget on a website.
+Learn basic web development.
+Showcase dynamic JavaScript functionality.
+Future Enhancements:
+Support for different time zones.
+Toggle between 12-hour and 24-hour formats.
+Display the current date.
+This project is perfect for beginners and can be hosted easily using GitHub Pages, Netlify, or other platforms.
